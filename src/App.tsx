@@ -98,14 +98,14 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 items-start mb-12">
             <div className="space-y-8">
               <div className="bg-[#12192b] rounded-2xl p-8 border border-gray-800/50">
-                <div className="mb-6">
-                  <img
-                    src="/IMG_20251102_212201.jpg"
-                    alt="DormCash Home Screen"
-                    className="w-full max-w-xs mx-auto rounded-2xl shadow-2xl"
-                  />
-                </div>
-                <h3 className="text-2xl font-bold mb-3">Dashboard at a Glance</h3>
+  <div className="mb-6 flex items-center justify-center">
+    <img
+      src="/IMG_20251102_212201.jpg"
+      alt="DormCash Home Screen"
+      className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
+    />
+  </div>
+  <h3 className="text-2xl font-bold mb-3">Dashboard at a Glance</h3>
                 <p className="text-gray-400 leading-relaxed">
                   View your remaining budget, daily spending breakdown by category, and see how much time you have left in the month. Everything you need on one beautiful home screen.
                 </p>
