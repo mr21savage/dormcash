@@ -9,13 +9,6 @@ function App() {
             <img src="/logo1.transparent.png.png" alt="DormCash Logo" className="h-10 w-10" />
             <span className="text-2xl font-bold">DormCash</span>
           </div>
-          <a href="#" className="transition-transform hover:scale-105 duration-300">
-            <img 
-              src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-              alt="Get it on Google Play"
-              className="h-14"
-            />
-          </a>
         </div>
       </nav>
 
@@ -36,13 +29,6 @@ function App() {
               The ultimate budget tracking app designed specifically for students and high schoolers.
               Track spending, set goals, and build healthy financial habits.
             </p>
-            <a href="#" className="inline-block transition-transform hover:scale-105 duration-300">
-              <img 
-                src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-                alt="Get it on Google Play"
-                className="h-20"
-              />
-            </a>
           </div>
         </div>
       </section>
@@ -100,7 +86,7 @@ function App() {
               <div className="bg-[#12192b] rounded-2xl p-8 border border-gray-800/50">
   <div className="mb-6 flex items-center justify-center">
     <img
-      src="/IMG_20251102_212201.jpg"
+      src="/IMG_20251102_212201.png"
       alt="DormCash Home Screen"
       className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
     />
